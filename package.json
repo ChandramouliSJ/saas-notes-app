@@ -9,7 +9,6 @@
     "seed": "node ./pages/api/seed.js"
   },
   "dependencies": {
-    "better-sqlite3": "^8.0.0",
     "jsonwebtoken": "^9.0.0",
     "next": "14.0.0",
     "react": "18.2.0",
